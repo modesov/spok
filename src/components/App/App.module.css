@@ -1,0 +1,19 @@
+.App {
+  height: 100%;
+  display: grid;
+  grid-template-rows: min-content 1fr min-content;
+}
+
+
+.header {
+  background-color:cadetblue
+}
+
+.main {
+  background-color: #fff;
+}
+
+.footer {
+  background-color: brown;
+}
+
